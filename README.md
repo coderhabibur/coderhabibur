@@ -41,10 +41,10 @@
 ###
 
 <div align="left">
-  <a href="coderhabibur@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.fiverr.com/coderhabibur" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="coderhabibur@gmail.com" target="_blank">
+  <a href="mailto:coderhabibur@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/coderhabibur/" target="_blank">
