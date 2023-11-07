@@ -1,4 +1,4 @@
-<h3><a href="https://www.fiverr.com/coderhabibur">Hi 👋! My name is Habibur Rahman and I'm a Web Designer | WordPress Developer | Webflow Expert | Squarespace Expert | Shopify Expert | React Developer.</a></h3>
+<h3><a href="https://www.fiverr.com/coderhabibur">Hi 👋! My name is Habibur Rahman and I'm a Web Designer | WordPress Developer | Webflow Expert | Squarespace Expert | Shopify Expert</a></h3>
 <a href="https://www.fiverr.com/coderhabibur">Hire Me On Fiverr</a>
 <h3><a href="https://www.fiverr.com/coderhabibur">Let's Connect</a></h3>
 <div align="center">
